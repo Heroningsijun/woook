@@ -1,0 +1,208 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<style type="text/css">
+*{margin:0 auto;
+	text-decoration:none;}
+	.img{
+		background-image: url('http://cms.prime-research.com.cn/ueditor/template/images/pirelli.png');
+	}
+	.xtitle{
+       text-decoration:underline;
+	   font-size:15px;
+	}
+	.right{
+     font-size:15px;
+	text-align:right;
+	}
+	.head{
+		position:relative;
+		border:#000;
+		}
+	.div{
+		position:absolute;
+		top:20px;
+		color:yellow;
+		padding-left:10px;
+		border:1px solid #000;
+	}
+	.japan{
+		  color:#FFF;
+		  background-color:black;
+		  border:1px solid #000;
+		  padding-left:100px;
+		  font-weight: bold;
+		}
+	 .japan  a{color:#fff;}
+	 .japan:active a{
+	 	color: #000000;
+	 }
+	 .japan:active{
+	   	  color: #000000; 
+	 	  background-color: #FFFFFF;
+	   }
+	 .china{
+		  color:#FFF;
+		  background-color:black;
+		  border:1px solid #000;
+		  padding-left:100px;
+		  font-weight: bold;
+		 }
+	  .china a{color:#fff;}
+	 .china:active a{
+	 	color: #000000;
+	 }
+	 .china:active{
+	   	  color: #000000; 
+	 	  background-color: #FFFFFF;
+	   }
+	  .korean{
+		  color:#FFF;
+		  background-color:black;
+		  border:1px solid #000;
+		  padding-left:100px;
+		  font-weight: bold;
+		  }
+	   .korean  a{color:#fff;}
+	   .korean:active{
+	   	  color: #000000; 
+	 	  background-color: #FFFFFF;
+	   }
+	   .korean:active a{
+	   	  color: #000000; 
+	   }
+	   .date{
+		   color:yellow;
+		   padding-bottom:190px;
+		   padding-left:15px;
+		   }
+	
+		</style>
+
+  
+</head>
+
+<body>
+<table width="800px" height="100%" class="head" cellpadding="0" cellspacing="0" >
+	<tr><td height="226" colspan="2" class="img"><P class="date"><b>July,08 2018</b></P></td>
+  </tr>
+  <tr><td colspan="2">
+  <table width="800px" height="100%" cellpadding="0" cellspacing="0" style="border:1 solid #000;" >
+      <tr>
+         <td class="china"><a href="#china">[CHINA]</a></td>
+         <td class="japan"><a href="#japan">[JAPAN]</a></td>
+         <td class="korean"><a href="#korean">[KOREAN]</a></td>
+      </tr>
+   </table>
+   </td>
+  </tr>
+	<tr>
+		<td height="69" colspan="2" ><p><b>SUMMARY July,08 2018</b></p></td>
+    </tr>
+    <tr>
+     <td height="39"><p class="xtitle" id="china">CHINA</p></td>
+    </tr>
+	<tr>
+		<td height="108"><div align="left">
+		  <p><strong>1.History and fact prove that no matter how the international</strong></p>
+        </div>
+	      <p>President Xi Jinping called for joint efforts with Arab states on Tuesday to build the Belt and Road together, promote peace and stability in the Middle East and safeguard justice.Xi made the remarks in his keynote speech at the opening ceremony of the eighth ministerial meeting of China-Arab States Cooperation Forum in Beijing on Tuesday.The president announced that China and Arab countries had agreed to establish a &quot;future-oriented strategic partnership of comprehensive cooperation and common development&quot;.</p>
+	    <p>History and fact prove that no matter how the international relations change and how many difficulties are ahead, China and Arab countries have always been good partners and brothers that support and benefit from each other, Xi said.</p></td>
+        <td></td>
+    </tr>
+	<tr>
+		<td width="669" height="34">•<strong class="xtitle">partnership of comprehensive cooperation and common development&quot;</strong></td>
+		<td class="right" id="china">CHINA</td>
+	</tr>
+	<tr>
+		<td height="138"><strong>2.History and fact prove that no matter how the international</strong>
+        <p>President Xi Jinping called for joint efforts with Arab states on Tuesday to build the Belt and Road together, promote peace and stability in the Middle East and safeguard justice.Xi made the remarks in his keynote speech at the opening ceremony of the eighth ministerial meeting of China-Arab States Cooperation Forum in Beijing on Tuesday.The president announced that China and Arab countries had agreed to establish a &quot;future-oriented strategic partnership of comprehensive cooperation and common development&quot;.</p></td>
+        <td></td>
+  </tr>
+  	<tr>
+		<td width="669" height="42">•<strong class="xtitle">partnership of comprehensive cooperation and common development&quot;</strong></td>
+		<td class="right" width="49">CHINA</td>
+  </tr>
+	<tr>
+		<td height="35" colspan="2"><p><strong>3.History and fact prove that no matter how the international</strong></p></td>
+  </tr>
+  <tr>
+		<td width="669" height="41">•<strong class="xtitle">partnership of comprehensive cooperation and common development&quot;</strong></td>
+		<td class="right" width="49"><p>CHINA</p></td>
+        </tr>
+        <tr>
+          <td height="38">•<strong class="xtitle">partnership of comprehensive cooperation and common development&quot;</strong></td>
+          <td><p  class="right">CHINA</p></td>
+        </tr>
+	    <tr>
+          <td height="31">
+          <p class="xtitle" id="japan">JAPAN</p>
+          </td>
+        </tr>
+        <tr>
+		<td width="669" height="41">•<strong class="xtitle">partnership of comprehensive cooperation and common development&quot;</strong></td>
+		<td class="right" width="49"><p>CHINA</p></td>
+        </tr>
+        <tr>
+          <td height="38">•<strong class="xtitle">partnership of comprehensive cooperation and common development&quot;</strong></td>
+          <td><p  class="right">CHINA</p></td>
+        </tr>
+        <tr>
+          <td height="26">
+          <p class="xtitle" id="korean">KOREAN</p>
+          </td>
+        </tr>
+        <tr>
+          <td height="147">
+          <p><strong>1.China</strong></p>
+          <p><strong>1)History and fact prove that no matter how the international</strong></p>
+        <p>President Xi Jinping called for joint efforts with Arab states on Tuesday to build the Belt and Road together, promote peace and stability in the Middle East and safeguard justice.Xi made the remarks in his keynote speech at the opening ceremony of the eighth ministerial meeting of China-Arab States Cooperation Forum in Beijing on Tuesday.The president announced that China and Arab countries had agreed to establish a &quot;future-oriented strategic partnership of comprehensive cooperation and common development&quot;.</p></td>
+        <td></td>
+        </tr>
+            <tr>
+          <td height="38">•<strong class="xtitle">partnership of comprehensive cooperation and common development&quot;</strong></td>
+          <td><p  class="right">CHINA</p></td>
+        </tr>
+          <tr>
+           <td><strong>2).China</strong></td>
+        <tr>
+           <td height="40">•<strong class="xtitle">partnership of comprehensive cooperation and common development&quot;</strong>
+           </td>
+          <td><p  class="right">CHINA</p></td>
+        </tr>
+       <tr>
+          <td height="147">
+          <p><strong>2.American</strong></p>
+          <p><strong>1)History and fact prove that no matter how the international</strong></p>
+        <p>President Xi Jinping called for joint efforts with Arab states on Tuesday to build the Belt and Road together, promote peace and stability in the Middle East and safeguard justice.Xi made the remarks in his keynote speech at the opening ceremony of the eighth ministerial meeting of China-Arab States Cooperation Forum in Beijing on Tuesday.The president announced that China and Arab countries had agreed to establish a &quot;future-oriented strategic partnership of comprehensive cooperation and common development&quot;.</p></td>
+        <td></td>
+        </tr>
+        <tr>
+          <td height="38">•<strong class="xtitle">partnership of comprehensive cooperation and common development&quot;</strong></td>
+          <td><p  class="right">CHINA</p></td>
+        </tr>
+        <tr>
+        	<td colspan="2">
+        		&nbsp;
+        	</td>
+        </tr>
+        <tr>
+        	<td colspan="2" width="800px" height="200px">&nbsp;</td>
+        </tr>
+        <tr><td colspan="2">
+        	<table width="800px" height="100%" cellpadding="0" cellspacing="0" style="border:0 solid gray;" >
+        		<tr>
+        			<td class="china" style="background-color:gray;"><a href="#china">[CHINA]</a></td>
+                    <td class="japan" style="background-color:gray;"><a href="#japan">[JAPAN]</a></td>
+                    <td class="korean" style="background-color:gray;><a href="#korean">[KOREAN]</a></td>
+        		</tr>
+        	</table> 
+        	</td>
+        </tr>
+
+ 
+</table>
+</body>
+</html>
